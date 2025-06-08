@@ -3,11 +3,13 @@
 --------------
 ## 08/06/2025  - Submitted by 13/06/2025
 
-#### Project Title: Fake Data Generator and GitHub Integration
-Objective:
+### Project Title: Fake Data Generator and GitHub Integration
+**Objective:**
+
 Create a Python script to generate a dataset of fake personal information, process the data, and document the project via GitHub and a presentation video.
 
-Assignment Breakdown:
+#### Assignment Breakdown:
+
 **1. Data Generation**
 Use Python (e.g., with the Faker library) to generate fake data with the following fields:
 - Full Name
